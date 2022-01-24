@@ -1,0 +1,30 @@
+_repo: Pueblo-pottery-making-a-study-at-the-village-of-San-Ildefonso_67221
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guthe, Carl E. (Carl Eugen)
+    aliases:
+    - Guthe, Carl Eugen
+    - Guthe, C. E. (Carl Eugen)
+    birthdate: 1893
+    deathdate: 1974
+    gutenberg_agent_id: '41637'
+    url: http://www.gutenberg.org/2009/agents/41637
+description: ''
+gutenberg_issued: '2022-01-22'
+identifiers:
+  gutenberg: '67221'
+language: en
+pgterms:marc905: 20210121064244guthe
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Yale Univ Press,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Pueblo pottery making;: a study at the village of San Ildefonso'
+url: http://www.gutenberg.org/ebooks/67221
