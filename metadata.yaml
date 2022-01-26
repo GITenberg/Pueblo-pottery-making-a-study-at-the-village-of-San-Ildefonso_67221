@@ -1,5 +1,8 @@
 _repo: Pueblo-pottery-making-a-study-at-the-village-of-San-Ildefonso_67221
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67221-h/images/cover.jpg
 creator:
   author:
     agent_name: Guthe, Carl E. (Carl Eugen)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '41637'
     url: http://www.gutenberg.org/2009/agents/41637
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67221#Pueblo-pottery-making-a-study-at-the-village-of-San-Ildefonso
 gutenberg_issued: '2022-01-22'
 identifiers:
   gutenberg: '67221'
